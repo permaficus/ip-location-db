@@ -1,6 +1,6 @@
 {
   "name": "@ip-location-db/iptoasn-country-mmdb",
-  "version": "2.3.2024111218",
+  "version": "2.3.2024111318",
   "description": "Ip to location database",
   "keywords": [
     "ip",
